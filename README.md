@@ -1,4 +1,4 @@
-### Hi 👋 I'm Jagad Raya
+### Hi 👋 I'm Dimas Rizqi
 A 19 y.o Fullstack Web Developer From Indonesia<br>
 - 🖼️ Interested On UI/UX Design<br>
 - 📖 Currently Learning MERN<br>
@@ -18,8 +18,8 @@ A 19 y.o Fullstack Web Developer From Indonesia<br>
 <img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /><br><br>
 
 ### Reach Me On
-- <a href="https://www.instagram.com/jagad.raya18/">Instagram</a><br>
-- <a href="http://linkedin.com/in/jagadraya/">LinkedIn</a><br><br>
+- <a href="https://www.instagram.com/izukishi/">Instagram</a><br>
+<!-- - <a href="http://linkedin.com/in/jagadraya/">LinkedIn</a><br><br> -->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ZenthicMC&show_icons=true&theme=nightowl)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenthicMC&layout=compact&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
