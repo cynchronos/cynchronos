@@ -21,8 +21,8 @@ A 19 y.o Fullstack Web Developer From Indonesia<br>
 - <a href="https://www.instagram.com/izukishi/">Instagram</a><br>
 <!-- - <a href="http://linkedin.com/in/jagadraya/">LinkedIn</a><br><br> -->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ZenthicMC&show_icons=true&theme=nightowl)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenthicMC&layout=compact&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=cynchronos&show_icons=true&theme=nightowl)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cynchronos&layout=compact&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
-![](https://komarev.com/ghpvc/?username=ZenthicMC&color=green)
+![](https://komarev.com/ghpvc/?username=cynchronos&color=green)
 
