@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Dimas Rizqi
-A 19 y.o Fullstack Web Developer From Indonesia<br>
-- 🖼️ Interested On UI/UX Design<br>
-- 📖 Currently Learning <strike>MERN</strike> FNEM<br>
+A 20 y.o Fullstack Web Developer From Indonesia<br>
+- 🖼️ Interested On Machine Learning and Web Development<br>
+- 📖 Currently Learning Deep Learning and Backend Development with NestJS<br>
 - 🐱 A Guy Who Loves Cats<br>
 
 ### Technologies
