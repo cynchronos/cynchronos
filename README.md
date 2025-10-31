@@ -1,4 +1,4 @@
-### Hi 👋 I'm Dimas Rizqi
+### Hi 👋 I'm Izukishi
 A Developer From Indonesia<br>
 - 🖼️ Interested On Machine Learning and Web Development<br>
 - 📖 Currently Learning Deep Learning and Backend Development with NestJS<br>
