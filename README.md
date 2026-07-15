@@ -1,29 +1,28 @@
-### Hi 👋 I'm Izukishi
-A Developer From Indonesia<br>
-- 🖼️ Interested On Machine Learning and Web Development<br>
-- 📖 Currently Learning Deep Learning and Backend Development with NestJS<br>
-- 🐱 A Guy Who Loves Cats<br>
+# Dimas Rizqi
+**Software & AI Engineer**
 
-### Technologies
+I architect full-stack applications, microservices, and AI orchestrations. My engineering focus is on system-level performance, and scalable backend infrastructure within Linux environments.
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="NODE" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="FLASK" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
-<img align="left" alt="BOOTSTRAP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PYTHON" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="FLUTTER" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
-<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MONGODB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<br><br>
+### ⚙️ Core Engineering Stack
+- **Architecture & Backend:** NestJS, Next.js, Python (FastAPI)
+- **AI & Data Orchestration:** LangChain, Whisper, Gemini, Tacotron2
+- **Databases & Caching:** PostgreSQL, MongoDB, Redis
+- **Environment & OS:** Linux Fedora, System-Level Optimization
 
-### Reach Me On
-- <a href="https://www.instagram.com/izukishi/">Instagram</a><br>
-<!-- - <a href="http://linkedin.com/in/jagadraya/">LinkedIn</a><br><br> -->
+### 🔬 What I'm Building & Researching
 
-![Stats](https://github-readme-stats.vercel.app/api?username=cynchronos&show_icons=true&theme=nightowl)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cynchronos&layout=compact&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
-![](https://komarev.com/ghpvc/?username=cynchronos&color=green)
+Currently, I'm engineering **Project ZETA**, an open-source AI orchestration platform. I am moving beyond standard API wrappers by building an end-to-end pipeline that tightly integrates automated speech recognition (Whisper) and modern text-to-speech engines with Gemini AI. My primary focus here is solving state management complexities and enforcing low-latency execution across asynchronous LLM requests.
 
+On the academic and research front, my core interest lies in natural AI interactions. I published my research and if you are interested in the architectural methodology behind the paper, you can read the full text via its [DOI: 10.29207/resti.v9i6.6585](https://doi.org/10.29207/resti.v9i6.6585).
+
+---
+### 📊 Engineering Metrics
+![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=cynchronos&show_icons=true&theme=nightowl&hide_border=true&count_private=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cynchronos&layout=compact&show_icons=true&theme=nightowl&hide_border=true)](https://github.com/cynchronos)
+
+### 📊 Engineering Metrics
+![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=cynchronos&show_icons=true&theme=nightowl&hide_border=true&count_private=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cynchronos&layout=compact&show_icons=true&theme=nightowl&hide_border=true)](https://github.com/cynchronos)
+
+---
+If you want to discuss full-stack AI engineering, opportunities, or architectural collaborations, feel free to reach out directly at my **[Email](mailto:your.email@domain.com)**
