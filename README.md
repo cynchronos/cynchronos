@@ -1,4 +1,4 @@
-##Software & AI Engineer
+## Software & AI Engineer
 
 I architect full-stack applications, microservices, and AI orchestrations. My engineering focus is on system-level performance, and scalable backend infrastructure within Linux environments.
 
