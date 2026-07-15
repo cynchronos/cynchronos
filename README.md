@@ -17,12 +17,8 @@ On the academic and research front, my core interest lies in natural AI interact
 
 ---
 ### 📊 Engineering Metrics
-![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=cynchronos&show_icons=true&theme=nightowl&hide_border=true&count_private=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cynchronos&layout=compact&show_icons=true&theme=nightowl&hide_border=true)](https://github.com/cynchronos)
+![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=cynchronos&show_icons=true&theme=nightowl&hide_border=true&v=1)
 
-### 📊 Engineering Metrics
-![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=cynchronos&show_icons=true&theme=nightowl&hide_border=true&count_private=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cynchronos&layout=compact&show_icons=true&theme=nightowl&hide_border=true)](https://github.com/cynchronos)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cynchronos&layout=compact&show_icons=true&theme=nightowl&hide_border=true&v=1)](https://github.com/cynchronos)
 ---
 If you want to discuss full-stack AI engineering, opportunities, or architectural collaborations, feel free to reach out directly at my **[Email](mailto:your.email@domain.com)**
