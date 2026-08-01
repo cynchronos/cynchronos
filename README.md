@@ -1,6 +1,6 @@
 ## I architect full-stack applications, microservices, and AI orchestrations. My engineering focus is on system-level performance, and scalable backend infrastructure within Linux environments.
 
-### ⚙️ Core Engineering Stack
+### ![React](https://shields.io) Core Engineering Stack
 - **Architecture & Backend:** NestJS, Next.js, Python (FastAPI)
 - **AI & Data Orchestration:** LangChain, Whisper, Gemini, Tacotron2
 - **Databases & Caching:** PostgreSQL, MongoDB, Redis
