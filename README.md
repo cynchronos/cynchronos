@@ -1,6 +1,6 @@
 ## I architect full-stack applications, microservices, and AI orchestrations. My engineering focus is on system-level performance, and scalable backend infrastructure within Linux environments.
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20" height="20"/> Core Engineering Stack
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="16" height="16"/> Core Engineering Stack
   - **Architecture & Backend:** NestJS, Next.js, Python (FastAPI)
 - **AI & Data Orchestration:** LangChain, Whisper, Gemini, Tacotron2
 - **Databases & Caching:** PostgreSQL, MongoDB, Redis
