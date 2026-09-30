@@ -15,6 +15,7 @@ Currently, I am building and maintaining two open-source projects:
    On the academic and research front, my core interest lies in natural AI interactions. I published my research and if you are interested in the architectural methodology behind the paper, you can read the full text via its [DOI: 10.29207/resti.v9i6.6585](https://doi.org/10.29207/resti.v9i6.6585).
 
 2. **Cynchronos Accounting System (CAS)**, an open-source, multi-tenant Double-Entry Bookkeeping ERP architected with Domain-Driven Design (DDD) principles using Next.js, Hono.js, and PostgreSQL. Engineered specifically for high-integrity financial operations within a strict 2GB RAM footprint, the system eliminates heavy external messaging and caching layers (Redis/Kafka) by shifting consistency controls directly to the relational engine.
+
    My primary focus is guaranteeing zero-drift arithmetic via arbitrary-precision fixed-point math (`NUMERIC(19,4)`), eliminating TOCTOU race conditions through deterministic row-level locking hierarchies (`FOR UPDATE`/`FOR SHARE`), and executing financial statement roll-ups using \(O(N)\) in-memory hierarchical aggregation without recursive database bottlenecks.
    
 ---
