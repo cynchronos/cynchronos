@@ -8,7 +8,7 @@
 
 ### 🔬 What I'm Building & Researching
 
-Currently, I'm Handled and engineering 2 Open-Source Projects:
+Currently, I am building and maintaining two open-source projects:
 
 1. **Project ZETA**, an open-source AI orchestration platform. I am moving beyond standard API wrappers by building an end-to-end pipeline that tightly integrates automated speech recognition (Whisper) and modern text-to-speech engines with Gemini AI. My primary focus here is solving state management complexities and enforcing low-latency execution across asynchronous LLM requests.
 
